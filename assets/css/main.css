@@ -1414,6 +1414,13 @@
 			margin: 0;
 			vertical-align: middle;
 		}
+		#header2 h3 {
+			color: #a0a0a1;
+			font-size: 0.5em;
+			line-height: 1;
+			margin: 0;
+			vertical-align: middle;
+		}
 
 			#header h1 a {
 				border: 0;
@@ -1574,7 +1581,7 @@
 				-ms-pointer-events: none;
 				pointer-events: none;
 				bottom: 1.875em;
-				font-size: 0.8em;
+				font-size: 1.7em;
 				left: 2.1875em;
 				margin: 0;
 				position: absolute;
